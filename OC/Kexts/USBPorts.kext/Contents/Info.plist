@@ -55,7 +55,7 @@
 					<key>PO11</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>255</integer>
 						<key>name</key>
 						<string>PO11</string>
 						<key>port</key>
@@ -140,26 +140,15 @@
 						BgAAAA==
 						</data>
 					</dict>
-					<key>POT7</key>
+					<key>POT9</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>255</integer>
 						<key>name</key>
-						<string>POT7</string>
+						<string>POT9</string>
 						<key>port</key>
 						<data>
-						BwAAAA==
-						</data>
-					</dict>
-					<key>POT8</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>0</integer>
-						<key>name</key>
-						<string>POT8</string>
-						<key>port</key>
-						<data>
-						CAAAAA==
+						CQAAAA==
 						</data>
 					</dict>
 				</dict>
